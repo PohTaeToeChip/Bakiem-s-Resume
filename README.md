@@ -8,7 +8,7 @@ This project marks the beginning of my journey transitioning from avionics elect
 ---
 
 ## 🚀 Live Demo
-**(Add your GitHub Pages link here once published)**  
+**https://github.com/PohTaeToeChip/Bakiem-s-Resume**  
 Example: `https://yourusername.github.io/html-resume-project`
 
 ---
