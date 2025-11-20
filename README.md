@@ -8,7 +8,7 @@ This project marks the beginning of my journey transitioning from avionics elect
 ---
 
 ## 🚀 Live Demo
-**https://github.com/PohTaeToeChip/Bakiem-s-Resume**  
+**(https://pohtaetoechip.github.io/Bakiem-s-Resume/)**  
 
 ---
 
